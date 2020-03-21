@@ -15,4 +15,5 @@ print (new_list)
 
 # print ('Marlene was here')
 # Raphi was here too
+# hmm und was bringt das jetzt? 
 
