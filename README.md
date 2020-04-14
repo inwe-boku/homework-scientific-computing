@@ -1,4 +1,4 @@
-![MIT license](https://img.shields.io/github/license/inwe-boku/homework-scientific-computing)
+[![MIT license](https://badgen.net/github/license/inwe-boku/homework-scientific-computing)](https://choosealicense.com/licenses/mit/)
 
 # Homework Scientific Computing
 
