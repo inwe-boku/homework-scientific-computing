@@ -26,7 +26,7 @@ def main(mode):
         for uri in forks_uri:
             name = f"{uri.split('/')[-2]}"
             print(f"Adding {name} as remote...")
-            subprocess.call(["git", "remote", "add", name, f"{uri}"])
+            subprocess.call(["git", "remote", "add", name, uri])
     else:
         raise ValueError(f"invalid mode: {mode}")
 
